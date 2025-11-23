@@ -1,0 +1,26 @@
+export const Cores = {
+  roxoPrimario: '#7E30E1',
+  lilaSecundario: '#C5BAFF',
+  fundoClaro: '#e8e6f0',
+  superficieClara: '#ffffff',
+  fundoEscuro: '#0a0a12',
+  superficieEscura: '#14141f',
+  gradienteRoxo1: '#7E30E1',
+  gradienteRoxo2: '#C5BAFF',
+  gradienteRoxo3: '#E8DFF5',
+  textoClaro: '#ffffff',
+  textoEscuro: '#0a0a12',
+  textoSecundarioClaro: 'rgba(255, 255, 255, 0.7)',
+  textoSecundarioEscuro: 'rgba(10, 10, 18, 0.7)',
+  sucesso: '#4CAF50',
+  erro: '#F44336',
+  aviso: '#FF9800',
+  info: '#2196F3',
+  vidroBrancoClaro: 'rgba(255, 255, 255, 0.15)',
+  vidroPretoClaro: 'rgba(20, 20, 31, 0.15)',
+  bordaVidro: 'rgba(255, 255, 255, 0.2)',
+  transparente: 'transparent',
+  sobraEscura: 'rgba(0, 0, 0, 0.25)',
+} as const
+
+export type CoresTema = typeof Cores
