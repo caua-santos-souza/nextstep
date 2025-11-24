@@ -358,11 +358,9 @@ Este projeto foi desenvolvido como parte da **Global Solution 2025** da FIAP, co
 
 **Desenvolvido por estudantes da FIAP**
 
-<br>
+**NextStep** - *Porque grandes transformações começam com pequenos passos.*
 
-*NextStep - Acelerando carreiras com inteligência artificial* 🚀
-
-<br>
+![Preparando profissionais para carreiras que ainda não existem](https://img.shields.io/badge/Global_Solution-2025-7E30E1?style=for-the-badge)
 
 ---
 
